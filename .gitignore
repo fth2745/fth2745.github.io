@@ -1,0 +1,5 @@
+# Profile Repo and Local Deploy Helpers
+fth2745_profile/
+*.bat
+.DS_Store
+Thumbs.db
